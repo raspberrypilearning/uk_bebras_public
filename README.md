@@ -1,2 +1,2 @@
 # bebras
-useful files for Bebras
+useful files for UK Bebras and Coding Challenge
